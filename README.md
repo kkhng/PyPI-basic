@@ -1,4 +1,4 @@
-### Basic Python Project: Automation with Python
+### Basic Python: Automation with Python
 
 #### Task: Use openpyxl to process spreadsheet
 
